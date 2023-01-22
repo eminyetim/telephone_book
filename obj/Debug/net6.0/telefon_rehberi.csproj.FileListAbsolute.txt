@@ -1,0 +1,15 @@
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\telefon_rehberi\bin\Debug\net6.0\telefon_rehberi.exe
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\telefon_rehberi\bin\Debug\net6.0\telefon_rehberi.deps.json
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\telefon_rehberi\bin\Debug\net6.0\telefon_rehberi.runtimeconfig.json
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\telefon_rehberi\bin\Debug\net6.0\telefon_rehberi.dll
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\telefon_rehberi\bin\Debug\net6.0\telefon_rehberi.pdb
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\telefon_rehberi\obj\Debug\net6.0\telefon_rehberi.csproj.AssemblyReference.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\telefon_rehberi\obj\Debug\net6.0\telefon_rehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\telefon_rehberi\obj\Debug\net6.0\telefon_rehberi.AssemblyInfoInputs.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\telefon_rehberi\obj\Debug\net6.0\telefon_rehberi.AssemblyInfo.cs
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\telefon_rehberi\obj\Debug\net6.0\telefon_rehberi.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\telefon_rehberi\obj\Debug\net6.0\telefon_rehberi.dll
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\telefon_rehberi\obj\Debug\net6.0\refint\telefon_rehberi.dll
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\telefon_rehberi\obj\Debug\net6.0\telefon_rehberi.pdb
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\telefon_rehberi\obj\Debug\net6.0\telefon_rehberi.genruntimeconfig.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\telefon_rehberi\obj\Debug\net6.0\ref\telefon_rehberi.dll
